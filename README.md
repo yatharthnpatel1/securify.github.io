@@ -1,10 +1,10 @@
-# PeTeReport 
+# Securify 
 
-PeTeReport (**Pe**n**Te**st **Report**) is an open-source application vulnerability reporting tool designed to assist pentesting/redteaming efforts, by simplifying the task of writting and generation of reports.
+Securify is an open-source application vulnerability reporting tool designed to assist pentesting/redteaming efforts, by simplifying the task of writting and generation of reports.
 
 Focused in product security, the tool help security researchers and pentesters to provide detailed findings, appendix, attack paths and manage a finding template database to avoid wasting time spent in the reporting phase.
 
-PeTeReport (**Pe**n**Te**st **Report**) is written in Django and Python 3 with the aim to help pentesters and security researchers to manage a finding repository, write reports (in Markdown) and generate reports in different formats (HTML, CSV, PDF, Jupyter and Markdown).
+Securify is written in Django and Python 3 with the aim to help pentesters and security researchers to manage a finding repository, write reports (in Markdown) and generate reports in different formats (HTML, CSV, PDF, Jupyter and Markdown).
 
 <h4 align="center">Pentesting content management and reporting tool</h4>
 
